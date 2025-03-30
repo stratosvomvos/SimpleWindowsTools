@@ -1,10 +1,13 @@
 
+
 # SimpleWindowsTools
 
 
 **What is it?**
 
 This program is a small Windows utility made in Python that offers a user-friendly way to fix common Windows issues,help with system performance, and access (some) essential tools—all in one place
+
+![the app](https://raw.githubusercontent.com/stratosvomvos/SimpleWindowsTools/refs/heads/main/swt.png)
 
 ## Features  
 
@@ -29,3 +32,15 @@ This program is a small Windows utility made in Python that offers a user-friend
    - Shut down the PC instantly  
    - Open Task Manager and Device Manager  
    - View full system information
+
+
+
+## How to use?
+**Grab the latest version from** [Releases](https://github.com/stratosvomvos/SimpleWindowsTools/releases/)
+ 
+ or 
+
+    Download the code, open cmd and do
+    cd {the place that you put the.py in}
+    pip install pyautogui tkinter ttkbootstrap
+    python SimpleWintools.py
