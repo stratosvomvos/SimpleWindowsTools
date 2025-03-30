@@ -18,7 +18,7 @@ This program is a small Windows utility made in Python that offers a user-friend
    
    ### Network Utilities  
    - Flush DNS and renew IP to fix connectivity problems  
-   - Resync system time (requires admin)  
+   - Resync system time
    - Ping Google to test internet connection  
    - View MAC address  
    
@@ -28,8 +28,8 @@ This program is a small Windows utility made in Python that offers a user-friend
    - Check disk for file system errors
    
    ### Miscellaneous Tools  
-   - Reboot directly into BIOS  
-   - Shut down the PC instantly  
+   - Reboot to BIOS  
+   - Shut down windows 
    - Open Task Manager and Device Manager  
    - View full system information
 
