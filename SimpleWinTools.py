@@ -70,7 +70,7 @@ ttk.Button(system_tab, text="Fix Explorer issues (Desktop will disappear for a s
 
 ttk.Button(system_tab, text="Fix simple GPU driver issues (You should hear a beep and then its done :D)", command=lambda: pyautogui.hotkey('winleft', 'shift', 'ctrl', 'b')).pack(pady=5, fill='x')
 
-ttk.Button(system_tab, text="Run DXDIAG (run the DirectX diagnostics tool)", command=lambda: run_command("chkdsk C: /f /r")).pack(pady=5, fill='x')
+ttk.Button(system_tab, text="Run DXDIAG (run the DirectX diagnostics tool)", command=lambda: run_command("dxdiag")).pack(pady=5, fill='x')
 
 
 
