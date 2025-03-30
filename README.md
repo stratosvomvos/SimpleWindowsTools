@@ -44,3 +44,6 @@ This program is a small Windows utility made in Python that offers a user-friend
     cd {the place that you put the.py in}
     pip install pyautogui tkinter ttkbootstrap
     python SimpleWintools.py
+ 
+
+This project is still in development, so expect a lot more things to come :D
