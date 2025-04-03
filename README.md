@@ -13,7 +13,7 @@ This program is a small Windows utility made in Python that offers a user-friend
 
  - ### Graphics Fixes  
    - Restart Windows Explorer to fix UI glitches  
-   - Reset GPU driver (useful for screen freezes or black screens)  
+   - Restart GPU driver (useful for screen freezes, graphics glitching or black screens)  
    - Run DirectX Diagnostic Tool to check for graphics issues  
    
    ### Network Utilities  
